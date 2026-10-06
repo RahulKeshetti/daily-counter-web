@@ -75,10 +75,3 @@ This landing page was developed as a milestone deliverable, meeting all content 
 
 ---
 
-## 🚀 Getting Started
-
-To run this repository locally:
-
-1. **Clone the repository:**
-   ```bash
-git clone [https://github.com/RahulKeshetti/daily-counter-web.git](https://github.com/RahulKeshetti/daily-counter-web.git)
