@@ -1,6 +1,6 @@
 # DailyCounter – Shop Bookkeeping & Credit Tracker
 
-A responsive, high-converting landing page built for a retail bookkeeping and customer credit management web application. Designed with HTML5, CSS3, and Bootstrap 4, adhering strictly to responsive layouts, a unified design system, and smooth interactive micro-interactions.
+A responsive, high-converting landing page built for a retail bookkeeping and customer credit management web application. Designed with HTML5, CSS3, and Bootstrap , adhering strictly to responsive layouts, a unified design system, and smooth interactive micro-interactions.
 
 🔗 **Live Demo:** [https://daily-counter-web.netlify.app/](https://daily-counter-web.netlify.app/)
 
